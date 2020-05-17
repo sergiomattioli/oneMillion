@@ -3,15 +3,15 @@
    "ios_app_store_link":"",
    "sticker_packs":[
    	  {
-	      "identifier": "animals1",
-	      "name": "Animals",
+	      "identifier": "babies1",
+	      "name": "Babies 1",
 	      "publisher": "Astro Mobile",
 	      "tray_image_file": "tray.png",
 	      "publisher_website": "",
 	      "publisher_email": "ant.space.soft@gmail.com",
 	      "privacy_policy_website": "",
 	      "license_agreement_website": "",
-	      "tags": "perro, oso, vaca",
+	      "tags": "babies",
 	      "stickers": [
         {
           "image_file": "1.webp",
@@ -136,15 +136,15 @@
       ]
       },
             {
-        "identifier": "cats1",
-        "name": "Cats 1",
+        "identifier": "babies2",
+        "name": "Babies 2",
         "publisher": "Astro Mobile",
         "tray_image_file": "tray.png",
         "publisher_website": "",
         "publisher_email": "ant.space.soft@gmail.com",
         "privacy_policy_website": "",
         "license_agreement_website": "",
-        "tags": "perro, oso, vaca",
+        "tags": "babies",
         "stickers": [
         {
           "image_file": "1.webp",
@@ -269,107 +269,15 @@
       ]
       },
       {
-        "identifier": "cats2",
-        "name": "Cats 2",
+        "identifier": "babies3",
+        "name": "Babies 3",
         "publisher": "Astro Mobile",
         "tray_image_file": "tray.png",
         "publisher_website": "",
         "publisher_email": "ant.space.soft@gmail.com",
         "privacy_policy_website": "",
         "license_agreement_website": "",
-        "tags": "cats",
-        "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        }
-      ]
-      },
-      {
-        "identifier": "dogs1",
-        "name": "Dogs",
-        "publisher": "Astro Mobile",
-        "tray_image_file": "tray.png",
-        "publisher_website": "",
-        "publisher_email": "ant.space.soft@gmail.com",
-        "privacy_policy_website": "",
-        "license_agreement_website": "",
+        "tags": "babies",
         "stickers": [
         {
           "image_file": "1.webp",
@@ -485,10 +393,6 @@
         },
         {
           "image_file": "29.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "30.webp",
           "emojis": []
         }
       ]
