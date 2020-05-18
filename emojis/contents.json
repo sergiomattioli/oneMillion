@@ -3,8 +3,8 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"emojies1",
-         "name":"Emojies 1",
+         "identifier":"emojis1",
+         "name":"Emojis 1",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -196,8 +196,8 @@
          ]
       },
       {
-         "identifier":"emojies2",
-         "name":"Emojies 2",
+         "identifier":"emojis2",
+         "name":"Emojis 2",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -389,8 +389,8 @@
          ]
       },
       {
-         "identifier":"emojies3",
-         "name":"Emojies 3",
+         "identifier":"emojis3",
+         "name":"Emojis 3",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -582,8 +582,8 @@
          ]
       },
       {
-         "identifier":"emojies4",
-         "name":"Emojies 4",
+         "identifier":"emojis4",
+         "name":"Emojis 4",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -775,8 +775,8 @@
          ]
       },
       {
-         "identifier":"emojies5",
-         "name":"Emojies 5",
+         "identifier":"emojis5",
+         "name":"Emojis 5",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -968,8 +968,8 @@
          ]
       },
       {
-         "identifier":"emojies6",
-         "name":"Emojies 6",
+         "identifier":"emojis6",
+         "name":"Emojis 6",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -1161,8 +1161,8 @@
          ]
       },
       {
-         "identifier":"emojies7",
-         "name":"Emojies 7",
+         "identifier":"emojis7",
+         "name":"Emojis 7",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -1354,8 +1354,8 @@
          ]
       },
       {
-         "identifier":"emojies8",
-         "name":"Emojies 8",
+         "identifier":"emojis8",
+         "name":"Emojis 8",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -1547,8 +1547,8 @@
          ]
       },
       {
-         "identifier":"emojies9",
-         "name":"Emojies 9",
+         "identifier":"emojis9",
+         "name":"Emojis 9",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -1740,8 +1740,8 @@
          ]
       },
       {
-         "identifier":"emojies10",
-         "name":"Emojies 10",
+         "identifier":"emojis10",
+         "name":"Emojis 10",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -1933,8 +1933,8 @@
          ]
       },
       {
-         "identifier":"emojies11",
-         "name":"Emojies 11",
+         "identifier":"emojis11",
+         "name":"Emojis 11",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -2054,8 +2054,8 @@
          ]
       },
       {
-         "identifier":"emojies12",
-         "name":"Emojies 12",
+         "identifier":"emojis12",
+         "name":"Emojis 12",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
