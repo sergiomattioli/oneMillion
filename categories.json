@@ -1,272 +1,236 @@
 [
    {
       "id":"10",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/animals/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/animals/animals1/1.webp",
       "name":"Animals",
       "visible":true
    },
    {
       "id":"20",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/babies/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/babies/babies1/1.webp",
       "name":"Babies",
       "visible":true
    },
    {
-      "id":"25",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/badpeople/1.png",
-      "name":"Bad People",
+      "id":"240",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/series/breakingbad/1.webp",
+      "name":"Series",
       "visible":true
-   },
-   {
-      "id":"30",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/cats/1.png",
-      "name":"Cats",
-     "visible":true
    },
    {
       "id":"40",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/clash1/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/clash1/1.png",
       "name":"Clash 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"50",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/clash2/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/clash2/1.png",
       "name":"Clash 2",
-      "visible":true
-   },
-   {
-      "id":"60",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/details/1.png",
-      "name":"Details",
-      "visible":true
+      "visible":false
    },
    {
       "id":"64",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/deportistas1/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/deportistas1/1.png",
       "name":"Deportistas 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"65",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/deportistas2/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/deportistas2/1.png",
       "name":"Deportistas 2",
-      "visible":true
-   },
-   {
-      "id":"70",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dialogs/1.png",
-      "name":"Dialogs",
-      "visible":true
+      "visible":false
    },
    {
       "id":"80",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos1/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dibujos1/1.png",
       "name":"Dibujos 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"81",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos2/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dibujos2/1.png",
       "name":"Dibujos 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"82",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos3/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dibujos3/1.png",
       "name":"Dibujos 3",
-      "visible":true
+      "visible":false
    },
    {
       "id":"83",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos4/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dibujos4/1.png",
       "name":"Dibujos 4",
-      "visible":true
+      "visible":false
    },
    {
       "id":"84",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos5/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dibujos5/1.png",
       "name":"Dibujos 5",
-      "visible":true
+      "visible":false
    },
    {
       "id":"85",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dibujos6/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dibujos6/1.png",
       "name":"Dibujos 6",
-      "visible":true
+      "visible":false
    },
    {
       "id":"90",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/dogs/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dogs/1.png",
       "name":"Dogs",
-      "visible":true
+      "visible":false
    },
    {
       "id":"100",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/emojis1/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/emojis1/1.png",
       "name":"Emojis 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"101",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/emojis2/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/emojis2/1.png",
       "name":"Emojis 2",
-      "visible":true
+      "visible":false
    },
       {
       "id":"102",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/emojis3/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/emojis3/1.png",
       "name":"Emojis 3",
-      "visible":true
+      "visible":false
    },
    {
       "id":"103",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/emojis4/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/emojis4/1.png",
       "name":"Emojis 4",
-      "visible":true
+      "visible":false
    },
    {
       "id":"110",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/fortnite/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/fortnite/1.png",
       "name":"Fortnite",
-      "visible":true
+      "visible":false
    },
    {
       "id":"120",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/freefire/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/freefire/1.png",
       "name":"Freefire",
-      "visible":true
+      "visible":false
    },
    {
       "id":"121",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/goodmorning/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/goodmorning/1.png",
       "name":"Good Morning",
-      "visible":true
+      "visible":false
    },
     {
       "id":"130",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/juegos1/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/juegos1/1.png",
       "name":"Juegos 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"140",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/juegos2/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/juegos2/1.png",
       "name":"Juegos 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"150",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/juegos3/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/juegos3/1.png",
       "name":"Juegos 3",
-      "visible":true
+      "visible":false
    },
    {
       "id":"160",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/love1/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/love1/1.png",
       "name":"Love 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"170",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/love2/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/love2/1.png",
       "name":"Love 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"180",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/memes1/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/memes1/1.png",
       "name":"Memes 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"190",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/memes2/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/memes2/1.png",
       "name":"Memes 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"200",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/movies1/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/movies1/1.png",
       "name":"Movies 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"210",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/movies2/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/movies2/1.png",
       "name":"Movies 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"220",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/music/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/music/1.png",
       "name":"Music",
-      "visible":true
+      "visible":false
    },
    {
       "id":"230",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/politics/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/politics/1.png",
       "name":"Politics",
-      "visible":true
+      "visible":false
    },
    {
       "id":"233",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/religion/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/religion/1.png",
       "name":"Religion",
-      "visible":true
+      "visible":false
    },
    {
       "id":"234",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/rickandmorty1/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/rickandmorty1/1.png",
       "name":"Rick and Morty 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"235",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/rickandmorty2/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/rickandmorty2/1.png",
       "name":"Rick and Morty 2",
-      "visible":true
-   },
-   {
-      "id":"240",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/series1/1.png",
-      "name":"Series 1",
-      "visible":true
-   },
-   {
-      "id":"250",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/series2/1.png",
-      "name":"Series 2",
-      "visible":true
-   },
-   {
-      "id":"260",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/series3/1.png",
-      "name":"Series 3",
-      "visible":true
+      "visible":false
    },
       {
       "id":"270",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/simpsons1/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/simpsons1/1.png",
       "name":"Simpsons 1",
-      "visible":true
+      "visible":false
    },
    {
       "id":"280",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/simpsons2/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/simpsons2/1.png",
       "name":"Simpsons 2",
-      "visible":true
+      "visible":false
    },
    {
       "id":"290",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/trump/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/trump/1.png",
       "name":"Trump",
-      "visible":true
+      "visible":false
    },
    {
       "id":"300",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/customStickers/master/youtubers/1.png",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/youtubers/1.png",
       "name":"Youtubers",
-      "visible":true
+      "visible":false
    }
 ]
