@@ -13,6 +13,12 @@
    },
    {
       "id":"240",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/emojies/emojies1/1.webp",
+      "name":"Emojies",
+      "visible":true
+   },
+   {
+      "id":"240",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/series/breakingbad/1.webp",
       "name":"Series",
       "visible":true
