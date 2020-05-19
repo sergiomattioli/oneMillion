@@ -18,6 +18,12 @@
       "visible":true
    },
    {
+      "id":"160",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/love/love1/1.webp",
+      "name":"Love 1",
+      "visible":true
+   },
+   {
       "id":"240",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/series/breakingbad/1.webp",
       "name":"Series",
@@ -147,12 +153,6 @@
       "id":"150",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/juegos3/1.png",
       "name":"Juegos 3",
-      "visible":false
-   },
-   {
-      "id":"160",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/love1/1.png",
-      "name":"Love 1",
       "visible":false
    },
    {
