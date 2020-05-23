@@ -43,6 +43,12 @@
    },
    {
       "id":"240",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/politics/politics1/1.webp",
+      "name":"Politics",
+      "visible":true
+   },
+   {
+      "id":"240",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/religion/religion1/1.webp",
       "name":"Religion",
       "visible":true
