@@ -30,6 +30,12 @@
       "visible":true
    },
    {
+      "id":"240",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/holyidays/whishes1/1.webp",
+      "name":"Holidays",
+      "visible":true
+   },
+   {
       "id":"160",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/love/love1/1.webp",
       "name":"Love",
