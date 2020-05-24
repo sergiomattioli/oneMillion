@@ -73,6 +73,12 @@
    },
    {
       "id":"240",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/things/things1/1.webp",
+      "name":"Things",
+      "visible":true
+   },
+   {
+      "id":"240",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/youtubers/youtubers1/1.webp",
       "name":"Youtubers",
       "visible":true
