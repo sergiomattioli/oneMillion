@@ -49,6 +49,12 @@
    },
    {
       "id":"180",
+      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/movies/movies1/1.webp",
+      "name":"Movies",
+      "visible":true
+   },
+   {
+      "id":"180",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/music/music1/1.webp",
       "name":"Music",
       "visible":true
