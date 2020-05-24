@@ -722,7 +722,7 @@
          ]
       },
       {
-         "identifier":"whishes1",
+         "identifier":"wishes1",
          "name":"Wishes 1",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
@@ -891,7 +891,7 @@
          ]
       },
       {
-         "identifier":"whishes2",
+         "identifier":"wishes2",
          "name":"Wishes 2",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
@@ -976,7 +976,7 @@
          ]
       },
       {
-         "identifier":"whishes3",
+         "identifier":"wishes3",
          "name":"Wishes 3",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
