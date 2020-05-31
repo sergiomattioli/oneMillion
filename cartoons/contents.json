@@ -3,6 +3,634 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"alf",
+         "name":"Alf",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"adventuretime",
+         "name":"Adventure Time",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"avengers1",
+         "name":"Avengers",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"batman1",
+         "name":"Batman",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"bugsbunny1",
          "name":"Bugs Bunny 1",
          "publisher":"Astro Mobile",
@@ -154,6 +782,338 @@
          ]
       },
       {
+         "identifier":"captainamerica",
+         "name":"Captain America",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"cartoonshalloween",
+         "name":"Cartoons Halloween",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"casper1",
          "name":"Casper 1",
          "publisher":"Astro Mobile",
@@ -256,6 +1216,483 @@
             },
             {
                "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"casper2",
+         "name":"Casper 2",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"cowardlydog",
+         "name":"Cowardly Dog",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"cowardlydog2",
+         "name":"Cowardly Dog 2",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
                "emojis":[
 
                ]
@@ -395,6 +1832,320 @@
             },
             {
                "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"dcheroes",
+         "name":"Dc Heroes",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"deadpool1",
+         "name":"Dead Pool",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
                "emojis":[
 
                ]
@@ -1320,6 +3071,199 @@
          ]
       },
       {
+         "identifier":"frozen2",
+         "name":"Frozen 2",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"garfield1",
          "name":"Garfield 1",
          "publisher":"Astro Mobile",
@@ -1380,6 +3324,851 @@
             },
             {
                "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"garfield2",
+         "name":"Garfield 2",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"garfield3",
+         "name":"Garfield 3",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"ginger",
+         "name":"Ginger",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"gravityfalls",
+         "name":"Gravity Falls",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"grinch",
+         "name":"Grinch",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
                "emojis":[
 
                ]
@@ -1466,8 +4255,467 @@
          ]
       },
       {
+         "identifier":"joker",
+         "name":"Joker",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"kungfupanda1",
          "name":"Kung Fu Panda 1",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"ladydeadpool",
+         "name":"Lady Deadpool",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"mickeyandstvalentine",
+         "name":"Mickey Valentine",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -1925,6 +5173,187 @@
          ]
       },
       {
+         "identifier":"mix",
+         "name":"Mix",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"ninjahattorikun1",
          "name":"Ninja Hattori Kun 1",
          "publisher":"Astro Mobile",
@@ -2099,6 +5528,742 @@
             },
             {
                "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"pikachu",
+         "name":"Pikachu",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"pikachudetective",
+         "name":"Pikachu Detective",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"pinkpanter",
+         "name":"Pink Panter",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"pocoyo1",
+         "name":"Pocoyo 1",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
                "emojis":[
 
                ]
@@ -4133,6 +8298,350 @@
          ]
       },
       {
+         "identifier":"simba",
+         "name":"Simba",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"sonic",
+         "name":"Sonic",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"southpark1",
          "name":"South Park 1",
          "publisher":"Astro Mobile",
@@ -4790,6 +9299,1135 @@
             },
             {
                "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"spongebob2",
+         "name":"Sponge Bob 2",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"starvstheforcesofevil",
+         "name":"Star vs the Forces of Evil",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"stich1",
+         "name":"Stich 1",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"stich2",
+         "name":"Stich 2",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"stich3",
+         "name":"Stich 3",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"thanos",
+         "name":"Thanos",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"thesecretlifeofpets",
+         "name":"The Secret Life of Pets",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
                "emojis":[
 
                ]
@@ -5539,6 +11177,139 @@
          ]
       },
       {
+         "identifier":"timonypumba",
+         "name":"Timon and Pumba",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },      
+      {
          "identifier":"tomandjerry1",
          "name":"Tom and Jerry 1",
          "publisher":"Astro Mobile",
@@ -5641,6 +11412,72 @@
             },
             {
                "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
                "emojis":[
 
                ]
@@ -6065,6 +11902,127 @@
          ]
       },
       {
+         "identifier":"toystory4",
+         "name":"Toy Story 4",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"tweety1",
          "name":"Tweety 1",
          "publisher":"Astro Mobile",
@@ -6150,6 +12108,103 @@
          ]
       },
       {
+         "identifier":"wearebears",
+         "name":"We are Bears",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"winniepooh1",
          "name":"Winnie Pooh 1",
          "publisher":"Astro Mobile",
@@ -6198,6 +12253,501 @@
             },
             {
                "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"winniepooh2",
+         "name":"Winnie Pooh 2",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"wolverine",
+         "name":"Wolverine",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"wonderwoman",
+         "name":"Wonderwoman",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
                "emojis":[
 
                ]
