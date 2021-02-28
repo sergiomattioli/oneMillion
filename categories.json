@@ -19,12 +19,6 @@
    },
    {
       "id":"20",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/badpeople/badpeople1/1.webp",
-      "name":"Bad People",
-      "visible":false
-   },
-   {
-      "id":"20",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/cartoons/bugsbunny1/1.webp",
       "name":"Cartoons",
       "visible":true
@@ -33,12 +27,6 @@
       "id":"240",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/emojis/emojis1/1.webp",
       "name":"Emojis",
-      "visible":true
-   },
-   {
-      "id":"240",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/games/angrybirds1/1.webp",
-      "name":"Games",
       "visible":true
    },
    {
@@ -79,24 +67,6 @@
    },
    {
       "id":"240",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/politics/politics1/1.webp",
-      "name":"Politics",
-      "visible":true
-   },
-   {
-      "id":"240",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/religion/religion1/1.webp",
-      "name":"Religion",
-      "visible":true
-   },
-   {
-      "id":"240",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/series/breakingbad/1.webp",
-      "name":"Series",
-      "visible":true
-   },
-   {
-      "id":"240",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/things/things1/1.webp",
       "name":"Things",
       "visible":true
@@ -132,42 +102,6 @@
       "visible":false
    },
    {
-      "id":"80",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dibujos1/1.png",
-      "name":"Dibujos 1",
-      "visible":false
-   },
-   {
-      "id":"81",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dibujos2/1.png",
-      "name":"Dibujos 2",
-      "visible":false
-   },
-   {
-      "id":"82",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dibujos3/1.png",
-      "name":"Dibujos 3",
-      "visible":false
-   },
-   {
-      "id":"83",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dibujos4/1.png",
-      "name":"Dibujos 4",
-      "visible":false
-   },
-   {
-      "id":"84",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dibujos5/1.png",
-      "name":"Dibujos 5",
-      "visible":false
-   },
-   {
-      "id":"85",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dibujos6/1.png",
-      "name":"Dibujos 6",
-      "visible":false
-   },
-   {
       "id":"90",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/dogs/1.png",
       "name":"Dogs",
@@ -195,18 +129,6 @@
       "id":"103",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/emojis4/1.png",
       "name":"Emojis 4",
-      "visible":false
-   },
-   {
-      "id":"110",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/fortnite/1.png",
-      "name":"Fortnite",
-      "visible":false
-   },
-   {
-      "id":"120",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/freefire/1.png",
-      "name":"Freefire",
       "visible":false
    },
    {
@@ -273,48 +195,6 @@
       "id":"230",
       "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/politics/1.png",
       "name":"Politics",
-      "visible":false
-   },
-   {
-      "id":"233",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/religion/1.png",
-      "name":"Religion",
-      "visible":false
-   },
-   {
-      "id":"234",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/rickandmorty1/1.png",
-      "name":"Rick and Morty 1",
-      "visible":false
-   },
-   {
-      "id":"235",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/rickandmorty2/1.png",
-      "name":"Rick and Morty 2",
-      "visible":false
-   },
-      {
-      "id":"270",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/simpsons1/1.png",
-      "name":"Simpsons 1",
-      "visible":false
-   },
-   {
-      "id":"280",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/simpsons2/1.png",
-      "name":"Simpsons 2",
-      "visible":false
-   },
-   {
-      "id":"290",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/trump/1.png",
-      "name":"Trump",
-      "visible":false
-   },
-   {
-      "id":"300",
-      "image":"https://raw.githubusercontent.com/sergiomattioli/oneMillion/master/youtubers/1.png",
-      "name":"Youtubers",
       "visible":false
    }
 ]
